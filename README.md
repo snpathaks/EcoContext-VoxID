@@ -1,21 +1,21 @@
 <h2>🌿 EcoContext-VoxID 🌐</h2><br>
 <h2>🌟 EcoContext VoxID: Voice Recognition with a Green Twist! 🌍</h2><br>
-<h6>Welcome to EcoContext VoxID, a cutting-edge Python application that blends voice identification with intelligent, context-aware energy optimization. Powered by a sleek neural network and fuzzy logic, this system identifies users through unique voiceprints, adapts to real-world environments, and sips power like a pro—all wrapped in a vibrant Tkinter GUI. Ready to revolutionize voice tech? Let’s dive in! 🎙️⚡️</h6><br>
+Welcome to EcoContext VoxID, a cutting-edge Python application that blends voice identification with intelligent, context-aware energy optimization. Powered by a sleek neural network and fuzzy logic, this system identifies users through unique voiceprints, adapts to real-world environments, and sips power like a pro—all wrapped in a vibrant Tkinter GUI. Ready to revolutionize voice tech? Let’s dive in! 🎙️⚡️<br>
 
 <h3>✨ Why EcoContext VoxID Shines</h3><br>
-<h6>Voiceprint Magic: Extracts 32D voice signatures using a custom LSTM neural network.<br>
+Voiceprint Magic: Extracts 32D voice signatures using a custom LSTM neural network.<br>
 Smart Identification: Matches voices with pinpoint accuracy via cosine similarity.<br>
 Context Wizardry: Adapts to noise and movement with a fuzzy logic brain, ensuring peak performance.<br>
 Eco Power Mode: Optimizes energy use with dynamic power states—save the planet while you identify!<br>
 Slick GUI: A colorful Tkinter interface for registering users, identifying voices, and simulating contexts.<br>
-Audio Flexibility: Record live audio or conjure simulated samples for instant testing.</h6><br>
+Audio Flexibility: Record live audio or conjure simulated samples for instant testing.<br>
 
 <h3>🚀 Get Started</h3><br>
 Prerequisites<br>
 Python: 3.12+ (the fresher, the better!)<br>
 Libraries:pip install numpy librosa scikit-fuzzy tensorflow matplotlib tkinter sounddevice<br>
 
-<h3>🎮 How to Play</h3>
+<h3>🎮How to Play</h3>
 Fire It Up:<br>
 Run main.py to unleash the vibrant Tkinter GUI.:<br>
 Register Your Voice::<br>
@@ -24,21 +24,17 @@ Type a cool user ID.:<br>
 Click "Record Voice Sample" to capture your voice or "Generate Fake Audio" for a quick test.:<br>
 Press "Register User" to lock in your voiceprint.:<br>
 
-
 Identify the Speaker::<br>
 Switch to the "Identify User" tab.:<br>
 Record a fresh sample or use a simulated one from a registered user.:<br>
 Click "Identify User" to reveal the match with a confidence score!:<br>
-
 
 Simulate the Scene::<br>
 Head to the "Context Simulation" tab.:<br>
 Tweak noise and movement sliders to mimic real-world vibes.:<br>
 Click "Simulate Context" to see sensitivity, power mode, and battery life in action, complete with a snazzy bar plot.:<br>
 
-
-
-<h3>🛠️ Under the Hood</h3><br>
+<h3>🛠️Under the Hood</h3><br>
 1. VoiceprintExtractor: The Voice Alchemist<br>
 
 Mission: Turns audio into unique 32D voiceprints.
@@ -59,7 +55,7 @@ Rules: Five clever rules (e.g., noisy room → crank sensitivity, chilling → g
 
 Note: Movement is currently a random placeholder—add a real sensor for next-level accuracy.<br>
 
-3. EnergyOptimizer: The Power Maestro<br>
+3.EnergyOptimizer: The Power Maestro<br>
 
 Mission: Keeps energy use lean and green.<br>
 Power States:<br>
@@ -71,7 +67,7 @@ Processing: 25 mW (full throttle)<br>
 Logic: Picks the perfect state based on power mode.<br>
 Battery Life: Predicts runtime for a 1000 mAh battery at 3.7V—stay powered longer!<br>
 
-4. EcoContextVoxID: The Mastermind<br>
+4.EcoContextVoxID: The Mastermind<br>
 
 Mission: Ties it all together for seamless operation.<br>
 Powers:<br>
