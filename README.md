@@ -98,7 +98,7 @@ Live recordings via sounddevice (16 kHz, 3 seconds).<br>
 Simulated audio with np.random.normal for testing.<br>
 
 
-Context:<br>
+🔘Context:<br>
 Noise: Extracted from audio energy.<br>
 Movement: Randomly generated (accelerometer-ready).<br>
 
@@ -111,6 +111,6 @@ Voiceprint Extraction: A custom LSTM neural network (needs training to shine).<b
 Fuzzy Logic: A rule-based system that’s sharp and adaptive.<br>
 Note: Train the neural network with a dataset like VoxCeleb for real-world wow.<br>
 
-
+.......................................................................................................................................................................<br>
 <h3>EcoContext VoxID: Where voice recognition meets eco-smart innovation. Let’s make waves, not waste! 🌊⚡️</h3><br>
 
