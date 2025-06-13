@@ -109,7 +109,7 @@ User Data: Voiceprints stored in a snappy in-memory dictionary.<br>
 <h4>🤖AI Models:</h4><br>
 Voiceprint Extraction: A custom LSTM neural network (needs training to shine).<br>
 Fuzzy Logic: A rule-based system that’s sharp and adaptive.<br>
-Note: Train the neural network with a dataset like VoxCeleb for real-world wow.<br>
+
 
 .......................................................................................................................................................................<br>
 <h3>EcoContext VoxID: Where voice recognition meets eco-smart innovation. Let’s make waves, not waste! 🌊⚡️</h3><br>
