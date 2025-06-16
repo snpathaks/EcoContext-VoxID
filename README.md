@@ -89,7 +89,7 @@ Context Simulation: Play with settings and watch the magic unfold.<br>
 
 Perks: Live status updates, a user listbox, and a matplotlib-powered plot that pops.<br>
 
-<h3>📊 Data & Models</h3><br>
+<h3>📊 Data & Models:</h3><br>
 
 <h4>Datasets:</h4><br>
 No external datasets—this system creates its own spark!<br>
