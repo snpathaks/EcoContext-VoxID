@@ -1,4 +1,4 @@
-<h2><b>🌿EcoContext VoxID 🌐</b></h2><br>
+<h2><b>🌿EcoContext VoxID : 🌐</b></h2><br>
 <h2><b>🌟 EcoContext VoxID: Voice Recognition with a Green Twist! 🌍</b></h2><br>
 Welcome to EcoContext VoxID, a cutting-edge Python application that blends voice identification with intelligent, context-aware energy optimization. Powered by a sleek neural network and fuzzy logic, this system identifies users through unique voiceprints, adapts to real-world environments, and sips power like a pro—all wrapped in a vibrant Tkinter GUI. Ready to revolutionize voice tech? Let’s dive in ! 🎙️⚡️<br>
 
