@@ -10,12 +10,12 @@ Eco Power Mode: Optimizes energy use with dynamic power states—save the planet
 Slick GUI: A colorful Tkinter interface for registering users, identifying voices, and simulating contexts.<br>
 Audio Flexibility: Record live audio or conjure simulated samples for instant testing.<br>
 
-<h3>🚀 Get Started</h3><br>
+<h3>🚀 Get Started :</h3><br>
 Prerequisites<br>
 Python: 3.12+ (the fresher, the better!)<br>
 Libraries:pip install numpy librosa scikit-fuzzy tensorflow matplotlib tkinter sounddevice<br>
 
-<h3>🎮How to Play</h3>
+<h3>🎮How to Play :</h3>
 Fire It Up:<br>
 Run main.py to unleash the vibrant Tkinter GUI.:<br>
 Register Your Voice::<br>
